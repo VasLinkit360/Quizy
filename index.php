@@ -32,7 +32,7 @@
 		</div>
 		
 		<div class="block-title">
-			<h3>Popular Quiz</h3>
+			<h3>Popular 1 Quiz</h3>
 		</div>
 		<div class="block">
 			<div class="col-xs-6 mb-10">
